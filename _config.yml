@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "우하진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/고양이.png"
   bio              : "행복한 사람"
   location         : "대한민국, 원주"
   email            : "21-20718@hafs.hs.kr"
