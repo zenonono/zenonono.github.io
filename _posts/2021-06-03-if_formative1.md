@@ -154,7 +154,7 @@ int main(void) {
 }
 ~~~
 
-### 9.가위바위보
+### 9. 가위바위보
 ~~~c
 #include <stdio.h>
 
