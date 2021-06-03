@@ -4,10 +4,11 @@ title: "C언어"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: C언어 수행평가
 ---
 
-### 1.사주보기(교과서 96쪽 문제01)
-~~~
+### 1. 사주보기(교과서 96쪽 문제01)
+~~~c
 #include <stdio.h>
 main()
 {
@@ -22,8 +23,8 @@ main()
 }
 ~~~
 
-### 2.3개의 터널(교과서 98쪽 문제02)
-~~~
+### 2. 3개의 터널(교과서 98쪽 문제02)
+~~~c
 #include <stdio.h>
 int main()
 {
@@ -42,7 +43,7 @@ int main()
 ~~~
 
 ### 3. 이 달은 며칠까지 있을까?(교과서 100쪽 문제03)
-~~~
+~~~c
 #include <stdio.h>
 
 int main(void) {
@@ -66,7 +67,7 @@ int main(void) {
 ~~~
 
 ### 4. 30분 전(교과서 102쪽 문제04)
-~~~
+~~~c
 #include <stdio.h>
 int main(void) {
  int hour, min;
@@ -87,7 +88,7 @@ int main(void) {
 ~~~
 
 ### 5. 용돈으로 책 구매(교과서 104쪽 01)
-~~~
+~~~c
 #include <stdio.h>
 
 int main(void) {
@@ -105,7 +106,7 @@ int main(void) {
 ~~~
 
 ### 6. 도어락 
-~~~
+~~~c
 #include <stdio.h>
 
 int main(void) {
@@ -137,7 +138,7 @@ int main(void) {
 ~~~
 
 ### 7. 과목 점수 측정(교과서 105쪽 03)
-~~~
+~~~c
 #include <stdio.h>
 
 int main(void) {
@@ -154,7 +155,7 @@ int main(void) {
 ~~~
 
 ### 9.가위바위보
-~~~
+~~~c
 #include <stdio.h>
 
 int main() {
