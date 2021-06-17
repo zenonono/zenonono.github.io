@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "개념"
-url: /categories/
+    url: /categories/
   - title: "연도"
-url: /posts/
+    url: /posts/
   - title: "소개"
-url: /about/
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
